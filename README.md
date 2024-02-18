@@ -1,16 +1,11 @@
-# shkaf
+# Практическая работа
 
-A new Flutter project.
+## Скрины приложения
 
-## Getting Started
+![image](https://github.com/SergioCode24/ShkafLosev/assets/156674070/267574ea-0299-45e3-9cd2-5287c6acfe59)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/SergioCode24/ShkafLosev/assets/156674070/f9634c95-760a-4ab4-bfd2-fd49e4735fd1)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/SergioCode24/ShkafLosev/assets/156674070/4de98a95-cbce-42ba-b96c-a80e91c422c2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/SergioCode24/ShkafLosev/assets/156674070/36b1da80-48ce-4723-8237-200b33fdfbe0)

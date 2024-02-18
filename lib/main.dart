@@ -37,7 +37,14 @@ class HomePage extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.all(4),
               child: Container(
-                color: Colors.green,
+                color: Colors.lightGreenAccent,
+                alignment: Alignment.center,
+                child: const Text(
+                  "1",
+                  style: TextStyle(
+                  fontSize: 60,
+                  ),
+                ),
               ),
               ),
               ),
@@ -46,7 +53,14 @@ class HomePage extends StatelessWidget {
                 child: Padding(
                   padding: const EdgeInsets.all(4),
                 child: Container(
-                  color: Colors.amber,
+                  color: Colors.amberAccent,
+                  alignment: Alignment.center,
+                  child: const Text(
+                    "3",
+                    style: TextStyle(
+                        fontSize: 60,
+                    ),
+                  ),
                 ),
               ),
               ),
@@ -56,6 +70,14 @@ class HomePage extends StatelessWidget {
                   padding: const EdgeInsets.all(4),
                 child: Container(
                   color: Colors.black,
+                  alignment: Alignment.center,
+                  child: const Text(
+                    "5",
+                    style: TextStyle(
+                        fontSize: 60,
+                      color: Colors.white,
+                    ),
+                  ),
                 ),
               ),
               ),
@@ -64,7 +86,14 @@ class HomePage extends StatelessWidget {
                 child: Padding(
                   padding: const EdgeInsets.all(4),
                 child: Container(
-                  color: Colors.red,
+                  color: Colors.redAccent,
+                  alignment: Alignment.center,
+                  child: const Text(
+                    "7",
+                    style: TextStyle(
+                        fontSize: 60,
+                    ),
+                  ),
                 ),
               ),
               ),
@@ -81,6 +110,14 @@ class HomePage extends StatelessWidget {
               padding: const EdgeInsets.all(4),
                 child: Container(
                   color: Colors.purple,
+                  alignment: Alignment.center,
+                  child: const Text(
+                    "2",
+                    style: TextStyle(
+                        fontSize: 60,
+                      color: Colors.white,
+                    ),
+                  ),
                 ),
               ),
               ),
@@ -89,7 +126,15 @@ class HomePage extends StatelessWidget {
                 child: Padding(
                   padding: const EdgeInsets.all(4),
                 child: Container(
-                  color: Colors.blue,
+                  color: Colors.indigo,
+                  alignment: Alignment.center,
+                  child: const Text(
+                    "4",
+                    style: TextStyle(
+                        fontSize: 60,
+                      color: Colors.white,
+                    ),
+                  ),
                 ),
               ),
               ),
@@ -98,7 +143,14 @@ class HomePage extends StatelessWidget {
                 child: Padding(
                   padding: const EdgeInsets.all(4),
                 child: Container(
-                  color: Colors.grey,
+                  color: Colors.tealAccent,
+                  alignment: Alignment.center,
+                  child: const Text(
+                    "6",
+                    style: TextStyle(
+                        fontSize: 60,
+                    ),
+                  ),
                 ),
               ),
               ),
@@ -108,6 +160,14 @@ class HomePage extends StatelessWidget {
                   padding: const EdgeInsets.all(4),
                 child: Container(
                   color: Colors.brown,
+                  alignment: Alignment.center,
+                  child: const Text(
+                    "8",
+                    style: TextStyle(
+                      fontSize: 60,
+                      color: Colors.white,
+                    ),
+                  ),
                 ),
               ),
               ),
